@@ -1,0 +1,8 @@
+jupyter
+ipython
+ipykernel
+
+pandas
+scikit-learn
+transformers
+transformers[torch]
